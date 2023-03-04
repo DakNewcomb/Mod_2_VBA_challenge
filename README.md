@@ -11,3 +11,7 @@ Objective:
               -Calculate and define the total volume for each stock.
               -Determine and define the greatest percent increase, decrease, and total volume along with their associated ticker. 
   
+
+
+Creator's note:
+    I have included a file with the full code and a screenshot of the first sheet titled "2018."
